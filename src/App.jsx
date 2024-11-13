@@ -1,6 +1,6 @@
 import { useState, useLayoutEffect, useRef } from 'react'
-import Description from './Description/Description';
-import Diagram from './Diagram/Diagram';
+import Description from './components/Description/Description';
+import Diagram from './components/Diagram/Diagram';
 
 import './App.css'
 
